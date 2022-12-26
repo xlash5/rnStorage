@@ -1,0 +1,1 @@
+export const dummyData = Array.from(Array(1000).keys());
